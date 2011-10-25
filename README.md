@@ -8,7 +8,7 @@ In your HTML's head tag insert:
 
 ```
 <link rel="stylesheet" src="emoji-iphone.css" />
-<script type="text/javascript" src="blah.js"></script>
+<script type="text/javascript" src="jmoji.js"></script>
 ```
 
 Somewhere in your JavaScript call the jMoji() function:
@@ -16,3 +16,8 @@ Somewhere in your JavaScript call the jMoji() function:
 ```
 $('#elem').jMoji();
 ```
+
+## Acknowledgements
+
+technoweenie's tool to generate emoji icons and CSS:
+https://github.com/technoweenie/emoji-css-builder
