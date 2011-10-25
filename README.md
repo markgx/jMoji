@@ -7,7 +7,7 @@ jMoji is a jQuery plugin that displays iOS emoji characters on non-iOS desktop b
 In your HTML's head tag insert:
 
 ```
-<link rel="stylesheet" src="emoji-iphone.css" />
+<link rel="stylesheet" href="emoji-iphone.css" />
 <script type="text/javascript" src="jmoji.js"></script>
 ```
 
